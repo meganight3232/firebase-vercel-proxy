@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/", "destination": "https://studio--keybind-icon-display.us-central1.hosted.app" }
-  ]
-}
